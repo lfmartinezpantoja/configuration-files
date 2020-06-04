@@ -14,3 +14,5 @@ store:
   editproduct: "La cantidad del producto %s fue editado de %s a %s en la tienda %s con exito"
 login:
   post: "Cliente con username  %s realizo login a las %s"
+purchase:
+  post: "compra realizada con exito, su numero de factura es %s"
