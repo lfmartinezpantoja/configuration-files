@@ -1,0 +1,16 @@
+client:
+  post: "Cliente con numero de identificacion %s creado con exito"
+  put: "Cliente con numero de identificacion %s actualizado con exito"
+  delete: "Cliente con numero de identificacion %s deshabilitado con exito"
+product:
+  post: "Producto con productId %s creado con exito"
+  put: "Producto con productId %s actualizado con exito"
+  delete: "Producto con productId %s eliminado con exito"
+store:
+  post: "Tienda con storeId %s creado con exito"
+  put: "Tienda con storeId %s actualizado con exito"
+  delete: "Tienda con storeId %s eliminado con exito"
+  addproduct: "El producto %s fue agregado a la tienda %s con exito"
+  editproduct: "La cantidad del producto %s fue editado de %s a %s en la tienda %s con exito"
+login:
+  post: "Cliente con username  %s realizo login a las %s"
